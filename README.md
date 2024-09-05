@@ -53,7 +53,7 @@ Por otro lado, el movimiento tipo Word emplea un sistema de coordenadas cartesia
 ### Analizar las diferencias
 
 ## Conclusiones
-- **Uriel Vladimir Alvarez Tapia:** Esta practica permitio la comprension basica del funcionamiento del robot EPSON C4, asi como su control a travez de su respectivo software de programacion EPSON RC+. El software antes mencionado permite el control en sistema *WORLD* y *JOINT, habilitando una versatilidad en su programacion de acuerdo a las necesidades de su uso. Permitiendo su utilizacion en distintas aplicaciones.
+- **Uriel Vladimir Alvarez Tapia:** Esta practica permitio la comprension basica del funcionamiento del robot EPSON C4, asi como su control a travez de su respectivo software de programacion EPSON RC+. El software antes mencionado permite el control en sistema *WORLD* y *JOINT*, habilitando una versatilidad en su programacion de acuerdo a las necesidades de su uso. Permitiendo su utilizacion en distintas aplicaciones.
 Ademas, la herramienta de simulacion del software presenta una especial utilidad en la prueba de programas, permitiendo prevenir colisiones durante el movimiento manual o programao del equio y salvaguardando la integridad del mismo.
 - **Miguel Angel Castañeda Garcia:** El software Epson RC+7.0 resultó de mucha utilidad para el control de movimientos (joint y word) para el modelo del robot del laboratorio. Además, recalcar que, la interfaz gráfica de botones facilita el aprendizaje del mismo.
 El robot Epson es útiles para diversas aplicaciones, por ejemplo, la manipulación de objetos de peso considerable, y para trabajos donde de requiera bastante precisión.
